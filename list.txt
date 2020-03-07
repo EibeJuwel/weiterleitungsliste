@@ -1,0 +1,2 @@
+192.168.178.10 MeinPI-Hole.de
+192.168.178.10 André-Party.de
