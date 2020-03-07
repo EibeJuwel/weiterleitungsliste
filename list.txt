@@ -1,2 +1,4 @@
 192.168.178.10 MeinPI-Hole.de
 192.168.178.10 André-Party.de
+192.168.178.10 andré-party.de
+192.168.178.10 andre-party.de
